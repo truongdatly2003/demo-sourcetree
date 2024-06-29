@@ -1,0 +1,4 @@
+python -m django startapp app
+python -m django startproject webbanhang
+python manage.py migrate
+python manage.py runserver 8888
